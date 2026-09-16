@@ -7,7 +7,7 @@ description: Privacy policy for the GCHHS MiyaCare Survey Values browser extensi
 
 **GCHHS MiyaCare Survey Values browser extension**
 
-**Effective date:** [date]
+**Effective date:** 16/09/2026
 **Applies to version:** 0.10.0
 **Publisher:** Colin Robinson
 
@@ -47,14 +47,13 @@ While you are viewing a patient's activities in MiyaCare, the extension reads
 the response that MiyaCare itself has already requested and sent to your
 browser. From that response it extracts:
 
-- Recorded clinical values, such as blood glucose readings, insulin doses,
-  weight and observations
-- Free-text diary entries recorded by the patient
+- Recorded values
+- Free-text diary entries
 - The date and time each entry was recorded
-- The patient identifier contained in the response, used to make sure the table
+- The identifier contained in the response, used to make sure the table
   only ever shows the record you currently have open
 
-This is identifiable health information. It is the same information already
+This is identifiable information. It is the same information already
 displayed to you by MiyaCare under your own login. **The extension does not
 request, unlock or obtain any data you are not already authorised to see.**
 
